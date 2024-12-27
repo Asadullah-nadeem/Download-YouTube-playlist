@@ -2,6 +2,8 @@
 (checkout) https://github.com/Asadullah-nadeem/YouTube-playlist-Downloader 
 This project helps you download videos or audio from YouTube playlists easily. You can select the format (audio or video) and resolution for video downloads.  
 
+![image](https://github.com/user-attachments/assets/885e711a-4ebd-4c01-b272-81f48c821572)
+
 ---
 
 ### **Features**  
